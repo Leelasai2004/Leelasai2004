@@ -13,9 +13,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ## 🌟 My Competitive Programming Stats
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/leelasai_2004)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=dark&font=Karma&ext=heatmap&site=leetcode)](https://leetcode.com/obbareddyleelasai)
-
-[![LeetCode Profile](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=dark&font=Karma&ext=contest,rating,activity)](https://leetcode.com/obbareddyleelasai)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=dark&font=Karma&ext=contest,rating,activity)](https://leetcode.com/obbareddyleelasai)
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
@@ -39,4 +37,3 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ---
 
 ### 🚀 "Code, Learn, Improve, Repeat!" 💡
-
