@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate **Competitive Programmer** and **Software Developer** pursuing **B.Tech in Computer Science and Engineering** at **IIT Dhanbad**. I actively participate in programming contests and enjoy solving challenging problems on various platforms like Codeforces, AtCoder, and CodeChef.
 
+- 🌟 **Upcoming Summer SWE Intern at Google (2025)**
+- 🎓 **Mentor at TLE Eliminators**
 - 🔥 **Expert** on Codeforces
 - 🏆 **Knight** on LeetCode
 - 🎯 Winner of **GeeksforGeeks CodeSprint**
@@ -13,7 +15,13 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ## 🌟 My Competitive Programming Stats
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/leelasai_2004)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=dark&font=Karma&ext=contest,rating,activity)](https://leetcode.com/obbareddyleelasai)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=catppuccinMocha&font=Stylish&ext=contest)](https://leetcode.com/obbareddyleelasai)
+
+[![CodeChef Stats](https://cp-logo.vercel.app/codechef/Leelasai345)](https://www.codechef.com/users/Leelasai345)
+
+[![AtCoder Stats](https://atcoder-readme-stats.vercel.app/api/card?user=Leelasai)](https://atcoder.jp/users/Leelasai)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leelasai2026&show_icons=true&theme=github_dark)](https://github.com/Leelasai2026)
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
@@ -37,3 +45,4 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ---
 
 ### 🚀 "Code, Learn, Improve, Repeat!" 💡
+
