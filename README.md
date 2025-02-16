@@ -19,9 +19,9 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 
 [![CodeChef Stats](https://cp-logo.vercel.app/codechef/Leelasai345)](https://www.codechef.com/users/Leelasai345)
 
-[![AtCoder Stats](https://atcoder-readme-stats.vercel.app/api/card?user=Leelasai)](https://atcoder.jp/users/Leelasai)
+- 🎮 **AtCoder:** [Leelasai](https://atcoder.jp/users/Leelasai)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leelasai2026&show_icons=true&theme=github_dark)](https://github.com/Leelasai2026)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Leelasai2026&theme=github-dark&hide_border=true)](https://github.com/Leelasai2026)
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
@@ -45,4 +45,3 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ---
 
 ### 🚀 "Code, Learn, Improve, Repeat!" 💡
-
