@@ -13,22 +13,23 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - 💻 Enthusiastic about **Web Development and System Design**
 
 ## 🌟 My Competitive Programming Stats
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/leelasai_2004)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=catppuccinMocha&font=Stylish&ext=contest)](https://leetcode.com/obbareddyleelasai)
+<p align="center">
+  <a href="https://codeforces.com/profile/leelasai_2004">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  </a>
+  <a href="https://leetcode.com/obbareddyleelasai">
+    <img src="https://leetcard.jacoblin.cool/obbareddyleelasai?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 [![CodeChef Stats](https://cp-logo.vercel.app/codechef/Leelasai345)](https://www.codechef.com/users/Leelasai345)
-
-- 🎮 **AtCoder:** [Leelasai](https://atcoder.jp/users/Leelasai)
-
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Leelasai2026&theme=github-dark&hide_border=true)](https://github.com/Leelasai2026)
 
 ## 📫 Connect with Me
 - 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
 - 🌐 **Codeforces:** [leelasai_2004](https://codeforces.com/profile/leelasai_2004)
 - 🏅 **LeetCode:** [obbareddyleelasai](https://leetcode.com/obbareddyleelasai)
-- 🎮 **AtCoder:** [Leelasai](https://atcoder.jp/users/Leelasai)
 - 🍽 **CodeChef:** [Leelasai345](https://www.codechef.com/users/Leelasai345)
+- 🏆 **AtCoder:** [Leelasai](https://atcoder.jp/users/Leelasai)
 - 📧 **Email:** leelasaicp@gmail.com
 
 ## 🛠️ Tech Stack
