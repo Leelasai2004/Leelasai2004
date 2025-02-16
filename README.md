@@ -1,20 +1,38 @@
-## Hi there 👋
+# Hi, I'm Obbareddy Leelasai 👋
 
-<!--
-**Leelasai2004/Leelasai2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Competitive Programmer** and **Software Developer** pursuing **B.Tech in Computer Science and Engineering** at **IIT Dhanbad**. I actively participate in programming contests and enjoy solving challenging problems on various platforms like Codeforces, AtCoder, and CodeChef.
 
-Here are some ideas to get you started:
+- 🔥 **Expert** on Codeforces
+- 🏆 **Knight** on LeetCode
+- 🎯 Winner of **GeeksforGeeks CodeSprint**
+- 💡 Member of **Competitive Coding Club (C3) at IIT ISM Dhanbad**
+- 🔬 Focused on **Algorithms, Data Structures, and Optimization**
+- 💻 Enthusiastic about **Web Development and System Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Leelasai_2004's Codeforces Profile
+## 🌟 My Competitive Programming Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/leelasai_2004)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Leelasai_2004)
+## 📫 Connect with Me
+- 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
+- 🌐 **Codeforces:** [leelasai_2004](https://codeforces.com/profile/leelasai_2004)
+- 🏅 **LeetCode:** [obbareddyleelasai](https://leetcode.com/obbareddyleelasai)
+- 🎮 **AtCoder:** [Leelasai](https://atcoder.jp/users/Leelasai)
+- 🍽 **CodeChef:** [Leelasai345](https://www.codechef.com/users/Leelasai345)
+- 📧 **Email:** leelasaicp@gmail.com
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript, SQL
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Linux, VS Code, Postman
+
+## 📌 My Goals
+- Reach **Candidate Master (CM) 1900+** on Codeforces 🏆
+- Crack ** ** 🔥
+- Build a **competitive programming tracker website** 🖥️
+
+---
+
+### 🚀 "Code, Learn, Improve, Repeat!" 💡
 
