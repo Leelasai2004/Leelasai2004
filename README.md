@@ -13,6 +13,8 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ## 🌟 My Competitive Programming Stats
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/leelasai_2004)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/obbareddyleelasai?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/obbareddyleelasai)
+
 ## 📫 Connect with Me
 - 🔗 **LinkedIn:** [Leelasai2026](https://www.linkedin.com/in/Leelasai2026)
 - 🌐 **Codeforces:** [leelasai_2004](https://codeforces.com/profile/leelasai_2004)
@@ -29,7 +31,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 
 ## 📌 My Goals
 - Reach **Candidate Master (CM) 1900+** on Codeforces 🏆
-- Crack ** ** 🔥
+- Crack **Google STEP Interview** 🔥
 - Build a **competitive programming tracker website** 🖥️
 
 ---
