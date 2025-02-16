@@ -26,7 +26,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 
 ## 📫 Connect with Me
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"/> **[LinkedIn](https://www.linkedin.com/in/Leelasai2026)**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.png" width="16"/> **[Codeforces](https://codeforces.com/profile/leelasai_2004)**
+- <img src="https://codeforces.org/s/42131/favicon-32x32.png" width="16"/> **[Codeforces](https://codeforces.com/profile/leelasai_2004)**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="16"/> **[LeetCode](https://leetcode.com/obbareddyleelasai)**
 - <img src="https://cdn.codechef.com/images/cc-logo.svg" width="16"/> **[CodeChef](https://www.codechef.com/users/Leelasai345)**
 - <img src="https://img.atcoder.jp/assets/atcoder.png" width="16"/> **[AtCoder](https://atcoder.jp/users/Leelasai)**
