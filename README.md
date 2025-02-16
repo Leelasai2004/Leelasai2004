@@ -15,10 +15,10 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 ## 🌟 My Competitive Programming Stats
 <p align="center">
   <a href="https://codeforces.com/profile/leelasai_2004">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" width="400" />
   </a>
   <a href="https://leetcode.com/obbareddyleelasai">
-    <img src="https://leetcard.jacoblin.cool/obbareddyleelasai?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/obbareddyleelasai?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" />
   </a>
 </p>
 
