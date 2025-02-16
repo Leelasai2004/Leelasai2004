@@ -39,9 +39,10 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - **Tools & Platforms:** Git, Linux, VS Code, Postman
 
 ## 📌 My Goals
-- Reach **Candidate Master (CM) 1900+** on Codeforces 🏆
-- Crack **Google STEP Interview** 🔥
-- Build a **competitive programming tracker website** 🖥️
+- 🏆 **Achieve Candidate Master (CM) 1900+** on Codeforces  
+- 🚀 **Improve problem-solving skills to solve 2100+ rated problems**  
+- 🎯 **Qualify for ICPC Regionals and perform well in onsite contests**  
+- 📈 **Build projects that integrate CP concepts into real-world applications**  
 
 ---
 
