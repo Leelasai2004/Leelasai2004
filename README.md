@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Leelasai_2004's Codeforces Profile
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Leelasai_2004&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Leelasai_2004)
+
