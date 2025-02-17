@@ -33,9 +33,9 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - 📧 **Email:** leelasaicp@gmail.com
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python, JavaScript, SQL
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** C/C++, Python, JavaScript, SQL
+- **Web Development:** HTML, CSS, JavaScript, ReactJS
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Linux, VS Code, Postman
 
 ## 📌 My Goals
