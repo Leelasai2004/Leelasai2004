@@ -6,7 +6,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - 🌟 **Upcoming Summer SWE Intern at Google (2025)**
 - 🎓 **Mentor at TLE Eliminators**
 - 🔥 **Expert** on Codeforces
-- 🏆 **Knight** on LeetCode
+- 🏆 **Guardian** on LeetCode
 - 🎯 Winner of **GeeksforGeeks CodeSprint**
 - 💡 Member of **Competitive Coding Club (C3) at IIT ISM Dhanbad**
 - 🔬 Focused on **Algorithms, Data Structures, and Optimization**
