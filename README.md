@@ -5,7 +5,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 
 - 🌟 **Upcoming Summer SWE Intern at Google (2025)**
 - 🎓 **Mentor at TLE Eliminators**
-- 🔥 **Expert** on Codeforces
+- 🔥 **Candidate Master** on Codeforces
 - 🏆 **Guardian** on LeetCode
 - 🎯 Winner of **GeeksforGeeks CodeSprint**
 - 💡 Member of **Competitive Coding Club (C3) at IIT ISM Dhanbad**
@@ -39,7 +39,7 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - **Tools & Platforms:** Git, Linux, VS Code, Postman
 
 ## 📌 My Goals
-- 🏆 **Achieve Candidate Master (CM) 1900+** on Codeforces  
+- 🏆 **Achieve Master 2100+** on Codeforces  
 - 🚀 **Improve problem-solving skills to solve 2100+ rated problems**  
 - 🎯 **Qualify for ICPC Regionals and perform well in onsite contests**  
 - 📈 **Build projects that integrate CP concepts into real-world applications**  
