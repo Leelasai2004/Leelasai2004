@@ -3,9 +3,9 @@
 ## 🚀 About Me
 I'm a passionate **Competitive Programmer** and **Software Developer** pursuing **B.Tech in Computer Science and Engineering** at **IIT Dhanbad**. I actively participate in programming contests and enjoy solving challenging problems on various platforms like Codeforces, AtCoder, and CodeChef.
 
-- 🌟 **Upcoming Summer SWE Intern at Google (2025)**
+- 🌟 **Former Summer SWE Intern at Google (2025)**
 - 🎓 **Mentor at TLE Eliminators**
-- 🔥 **Candidate Master** on Codeforces
+- 🔥 **Master** on Codeforces
 - 🏆 **Guardian** on LeetCode
 - 🎯 Winner of **GeeksforGeeks CodeSprint**
 - 💡 Member of **Competitive Coding Club (C3) at IIT ISM Dhanbad**
@@ -39,8 +39,8 @@ I'm a passionate **Competitive Programmer** and **Software Developer** pursuing 
 - **Tools & Platforms:** Git, Linux, VS Code, Postman
 
 ## 📌 My Goals
-- 🏆 **Achieve Master 2100+** on Codeforces  
-- 🚀 **Improve problem-solving skills to solve 2100+ rated problems**  
+- 🏆 **Achieve Master 2300+** on Codeforces  
+- 🚀 **Improve problem-solving skills to solve 2300+ rated problems**  
 - 🎯 **Qualify for ICPC Regionals and perform well in onsite contests**  
 - 📈 **Build projects that integrate CP concepts into real-world applications**  
 
