@@ -3,6 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Competitive Programmer** and **Software Developer** pursuing **B.Tech in Computer Science and Engineering** at **IIT Dhanbad**. I actively participate in programming contests and enjoy solving challenging problems on various platforms like Codeforces, AtCoder, and CodeChef.
 
+- **Upcoming Winter SWE Intern at Rubrik**
 - 🌟 **Former Summer SWE Intern at Google (2025)**
 - 🎓 **Mentor at TLE Eliminators**
 - 🔥 **Master** on Codeforces
